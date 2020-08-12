@@ -1,0 +1,6 @@
+.item {
+    width: 500px;
+    height: 500px;
+    background-image: url("/view/img/login_background.jpg");
+    background-size: cover;
+}

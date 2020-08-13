@@ -1,0 +1,12 @@
+{
+    "name": "dogia/peanut",
+    "description": "A simple base website to develop your own php site.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dogia",
+            "email": "d.osorio1@utp.edu.co"
+        }
+    ],
+    "require": {}
+}
